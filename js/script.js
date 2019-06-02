@@ -53,6 +53,17 @@ $(document).ready(function () {
        }
     });
 
+    $('.all').on('click', function() {
+        if($(window).width() < 1025){
+            $('html').addClass('modal-open');
+
+        }
+    });
+
+    $('.close').on('click', function() {
+        $('html').removeClass('modal-open');
+    });
+
 });
 
 

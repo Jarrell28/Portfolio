@@ -54,7 +54,7 @@
         </nav>
         <div class="header">
             <h1 class="animated" data-animation="fadeIn" data-animation-delay="250">Jarrell Houston</h1>
-            <h2 class="animated" data-animation="fadeIn" data-animation-delay="400">Full Stack Web Developer</h2>
+            <h2 class="animated" data-animation="fadeIn" data-animation-delay="400">Web Developer</h2>
             <div class="header-btn animated" data-animation="fadeIn" data-animation-delay="550">
                 <a id="header-btn" data-scroll href="#portfolio">View My Projects</a>
             </div>
@@ -80,6 +80,13 @@
             <div class="all personal animated" data-animation="fadeIn" data-animation-delay="450" data-toggle="modal" data-target="#clique"><img src="img/cliqueimg.jpg" alt=""></div>
             <div class="all client animated" data-animation="fadeIn" data-animation-delay="150" data-toggle="modal" data-target="#jlservices"><img src="img/jlservices.jpg" alt=""></div>
             <div class="all client animated" data-animation="fadeIn" data-animation-delay="300" data-toggle="modal" data-target="#tritan"><img src="img/tritan.jpg" alt=""></div>
+            <div class="all client animated" data-animation="fadeIn" data-animation-delay="300" data-toggle="modal" data-target="#aclstaticide"><img src="img/aclstaticide.jpg" alt=""></div>
+            <div class="all client animated" data-animation="fadeIn" data-animation-delay="300" data-toggle="modal" data-target="#enhanceproductions"><img src="img/enhanceproductions.jpg" alt=""></div>
+            <div class="all client animated" data-animation="fadeIn" data-animation-delay="300" data-toggle="modal" data-target="#humboldt"><img src="img/humboldt.jpg" alt=""></div>
+            <div class="all client animated" data-animation="fadeIn" data-animation-delay="300" data-toggle="modal" data-target="#matchless"><img src="img/matchless.jpg" alt=""></div>
+            <div class="all client animated" data-animation="fadeIn" data-animation-delay="300" data-toggle="modal" data-target="#oakparkjewelers"><img src="img/oakparkjewelers.jpg" alt=""></div>
+            <div class="all client animated" data-animation="fadeIn" data-animation-delay="300" data-toggle="modal" data-target="#obraverde"><img src="img/obraverde.jpg" alt=""></div>
+            <div class="all client animated" data-animation="fadeIn" data-animation-delay="300" data-toggle="modal" data-target="#wisechoice"><img src="img/wisechoice.jpg" alt=""></div>
 
             <div class="modal fade portfolio-popup" id="jestate" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
                 <div class="modal-dialog h-100" role="document">
@@ -371,49 +378,302 @@
                 </div>
             </div>
 
-        </div>
-    </div>
-</div>
-
-<div id="skills" class="section animated">
-    <div class="section-container">
-        <h1 class="section-h1 animated" data-animation="fadeIn" data-animation-delay="100">My Skills</h1>
-
-        <div class="skill-items">
-            <div class="skills-services">
-                <div class="animated" data-animation="fadeIn" data-animation-delay="200"><i class="fas fa-shopping-cart"></i>
-                    <h4>E-Commerce</h4>
-                    <p>Do you need a website to sell your product? I am skilled in e-commerce websites and can build you your online store to boost your business. You will have an admin page to create, update, delete and view your products and orders. Also I can build a dashboard so you can view overall activity of your website. </p>
-                </div>
-
-                <div class="animated" data-animation="fadeIn" data-animation-delay="300"><i class="fas fa-file"></i>
-                    <h4>Single Page</h4>
-                    <p>Maybe you just need a single page website to display your work and provide contact information. I can build you a gallery website where you can show off your work with an about you section or any other content you want to add. Also can include a contact form so customers can email you directly from website if needed.</p>
-                </div>
-
-                <div class="animated" data-animation="fadeIn" data-animation-delay="400"><i class="fas fa-mobile"></i>
-                    <h4>Responsiveness</h4>
-                    <p>Everyone has a mobile phone nowadays. Your website will be fully responsive on mobile phones, ipads, tablets, you name it. Anyone will be able to view your website on whichever device they are using.</p>
-                </div>
-
-                <div class="animated" data-animation="fadeIn" data-animation-delay="200"><i class="fas fa-image"></i>
-                    <h4>Design</h4>
-                    <p>Have a custom design for your website? I can take that design and build it to look exactly the same as the design. Purchase a great design from a web designer or online to make your website stand out, and I will bring that design to life. </p>
-                </div>
-
-                <div class="animated" data-animation="fadeIn" data-animation-delay="300"><i class="fas fa-wrench"></i>
-                    <h4>Maintenance</h4>
-                    <p>Have any problems with your existing website? I can fix your website and apply any changes required. Maybe you want to update your website or redesign it. I can do all those things and anything else you need.</p>
-                </div>
-
-                <div class="animated" data-animation="fadeIn" data-animation-delay="400"><i class="fas fa-clipboard-list"></i>
-                    <h4>Planning</h4>
-                    <p>To get your website up and running as quickly as possible, you must provide a web design and the content in order for me to work as fast as possible. You also require a domain name and hosting. If you do not know about hosting and making your website live, I can set it up for you and provide hosting if necessary.</p>
+            <div class="modal fade portfolio-popup" id="aclstaticide" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="modal-dialog h-100" role="document">
+                    <div class="modal-content h-100">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="exampleModalLabel">ACL Staticide</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <div class="project-content">
+                                <div>
+                                    <img src="/img/aclstaticide.jpg" alt="ACL Staticide Image">
+                                </div>
+                                <p>Performed ongoing updates and added features for this website. Some front-end updates include widening the entire website from 900 pixels to 1300 pixels which also required replacing low quality banner images with higher quality and adjusting spacing between elements. Back-end features added include a sortable drag & drop multiple image uploader for products in the admin of the website and adding additional sample fields for users to choose when requesting a product sample.</p>
+                            </div>
+                            <div class="project-desc">
+                                <p>Tools:</p>
+                                <ul class="project-tools">
+                                    <li>HTML</li>
+                                    <li>CSS</li>
+                                    <li>Javascript</li>
+                                    <li>Jquery</li>
+                                    <li>AJAX</li>
+                                    <li>PHP</li>
+                                </ul>
+                                <p>Links:</p>
+                                <ul class="project-links">
+                                    <li><a href="https://www.aclstaticide.com" target="_blank">Live Site</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
+
+            <div class="modal fade portfolio-popup" id="enhanceproductions" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="modal-dialog h-100" role="document">
+                    <div class="modal-content h-100">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="exampleModalLabel">Enhance Productions</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <div class="project-content">
+                                <div>
+                                    <img src="/img/enhanceproductions.jpg" alt="Enhance Productions Image">
+                                </div>
+                                <p>Built entire website using pre-existing template provided by client and programmed additional changes to the template in order to fit the client's requests. Later converted the static website into a custom craftCMS template which allows the client to edit each content section from the admin side of their craft website.</p>
+                            </div>
+                            <div class="project-desc">
+                                <p>Tools:</p>
+                                <ul class="project-tools">
+                                    <li>HTML</li>
+                                    <li>SCSS</li>
+                                    <li>Javascript</li>
+                                    <li>Jquery</li>
+                                    <li>PHP</li>
+                                    <li>Twig</li>
+                                    <li>CraftCMS</li>
+                                </ul>
+                                <p>Links:</p>
+                                <ul class="project-links">
+                                    <li><a href="https://www.enhanceproductions.com" target="_blank">Live Site</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="modal fade portfolio-popup" id="humboldt" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="modal-dialog h-100" role="document">
+                    <div class="modal-content h-100">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="exampleModalLabel">HumboldtMfg</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <div class="project-content">
+                                <div>
+                                    <img src="/img/humboldt.jpg" alt="HumboldtMfg Image">
+                                </div>
+                                <p>Performed ongoing updates such as coding page redesigns, updating content, coding new pages, etc. Also created a template using CraftCMS that allows the admin user to create static web pages using generic content blocks.</p>
+                            </div>
+                            <div class="project-desc">
+                                <p>Tools:</p>
+                                <ul class="project-tools">
+                                    <li>HTML</li>
+                                    <li>CSS</li>
+                                    <li>Javascript</li>
+                                    <li>Jquery</li>
+                                    <li>PHP</li>
+                                    <li>CraftCMS</li>
+                                    <li>Twig</li>
+                                </ul>
+                                <p>Links:</p>
+                                <ul class="project-links">
+                                    <li><a href="https://www.humboldtmfg.com" target="_blank">Live Site</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="modal fade portfolio-popup" id="matchless" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="modal-dialog h-100" role="document">
+                    <div class="modal-content h-100">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="exampleModalLabel">Matchless Metal</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <div class="project-content">
+                                <div>
+                                    <img src="/img/matchless.jpg" alt="Matchless Metal Image">
+                                </div>
+                                <p>Extended website from 900 pixels to span the entire width of the computer screen and coded the redesign of the header and footer.</p>
+                            </div>
+                            <div class="project-desc">
+                                <p>Tools:</p>
+                                <ul class="project-tools">
+                                    <li>HTML</li>
+                                    <li>SCSS</li>
+                                    <li>Javascript</li>
+                                    <li>Jquery</li>
+                                    <li>PHP</li>
+                                </ul>
+                                <p>Links:</p>
+                                <ul class="project-links">
+                                    <li><a href="https://www.matchlessmetal.com" target="_blank">Live Site</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="modal fade portfolio-popup" id="oakparkjewelers" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="modal-dialog h-100" role="document">
+                    <div class="modal-content h-100">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="exampleModalLabel">Oak Park Jewelers</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <div class="project-content">
+                                <div>
+                                    <img src="/img/oakparkjewelers.jpg" alt="Oak Park Jewelers Image">
+                                </div>
+                                <p>Programmed static website from scratch using photoshop design provided by company designer. Converted static design into a CraftCMS template that allows admin user to update content for each section.</p>
+                            </div>
+                            <div class="project-desc">
+                                <p>Tools:</p>
+                                <ul class="project-tools">
+                                    <li>HTML</li>
+                                    <li>SCSS</li>
+                                    <li>Javascript</li>
+                                    <li>Jquery</li>
+                                    <li>PHP</li>
+                                    <li>Twig</li>
+                                    <li>CraftCMS</li>
+                                </ul>
+                                <p>Links:</p>
+                                <ul class="project-links">
+                                    <li><a href="https://www.oakparkjewelers.com" target="_blank">Live Site(Updates Pending)</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="modal fade portfolio-popup" id="obraverde" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="modal-dialog h-100" role="document">
+                    <div class="modal-content h-100">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="exampleModalLabel">Obraverde Flowers</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <div class="project-content">
+                                <div>
+                                    <img src="/img/obraverde.jpg" alt="Obraverde Flowers Image">
+                                </div>
+                                <p>Programmed website from scratch using photoshop design provided by company designer. Built inventory filter feature for users to quickly narrow down products with specific details.Also built inventory search form for users to instantly access products related to search value.</p>
+                            </div>
+                            <div class="project-desc">
+                                <p>Tools:</p>
+                                <ul class="project-tools">
+                                    <li>HTML</li>
+                                    <li>SCSS</li>
+                                    <li>Javascript</li>
+                                    <li>Jquery</li>
+                                    <li>AJAX</li>
+                                    <li>PHP</li>
+                                </ul>
+                                <p>Links:</p>
+                                <ul class="project-links">
+                                    <li><a href="https://www.obraverde-flowers.com" target="_blank">Live Site</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="modal fade portfolio-popup" id="wisechoice" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="modal-dialog h-100" role="document">
+                    <div class="modal-content h-100">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="exampleModalLabel">Wise Choice Guidance</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <div class="project-content">
+                                <div>
+                                    <img src="/img/wisechoice.jpg" alt="Wise Choice Image">
+                                </div>
+                                <p>Programmed redesigned website using pre-existing template provided by the client. Coded additional features to the template in order to meet client's requests.</p>
+                            </div>
+                            <div class="project-desc">
+                                <p>Tools:</p>
+                                <ul class="project-tools">
+                                    <li>HTML</li>
+                                    <li>SCSS</li>
+                                    <li>Javascript</li>
+                                    <li>Jquery</li>
+                                    <li>PHP</li>
+                                </ul>
+                                <p>Links:</p>
+                                <ul class="project-links">
+                                    <li><a href="https://www.wisechoiceguidance.com" target="_blank">Live Site(Updates Pending)</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
         </div>
     </div>
 </div>
+
+<!--<div id="skills" class="section animated">-->
+<!--    <div class="section-container">-->
+<!--        <h1 class="section-h1 animated" data-animation="fadeIn" data-animation-delay="100">My Skills</h1>-->
+<!---->
+<!--        <div class="skill-items">-->
+<!--            <div class="skills-services">-->
+<!--                <div class="animated" data-animation="fadeIn" data-animation-delay="200"><i class="fas fa-shopping-cart"></i>-->
+<!--                    <h4>E-Commerce</h4>-->
+<!--                    <p>Do you need a website to sell your product? I am skilled in e-commerce websites and can build you your online store to boost your business. You will have an admin page to create, update, delete and view your products and orders. Also I can build a dashboard so you can view overall activity of your website. </p>-->
+<!--                </div>-->
+<!---->
+<!--                <div class="animated" data-animation="fadeIn" data-animation-delay="300"><i class="fas fa-file"></i>-->
+<!--                    <h4>Single Page</h4>-->
+<!--                    <p>Maybe you just need a single page website to display your work and provide contact information. I can build you a gallery website where you can show off your work with an about you section or any other content you want to add. Also can include a contact form so customers can email you directly from website if needed.</p>-->
+<!--                </div>-->
+<!---->
+<!--                <div class="animated" data-animation="fadeIn" data-animation-delay="400"><i class="fas fa-mobile"></i>-->
+<!--                    <h4>Responsiveness</h4>-->
+<!--                    <p>Everyone has a mobile phone nowadays. Your website will be fully responsive on mobile phones, ipads, tablets, you name it. Anyone will be able to view your website on whichever device they are using.</p>-->
+<!--                </div>-->
+<!---->
+<!--                <div class="animated" data-animation="fadeIn" data-animation-delay="200"><i class="fas fa-image"></i>-->
+<!--                    <h4>Design</h4>-->
+<!--                    <p>Have a custom design for your website? I can take that design and build it to look exactly the same as the design. Purchase a great design from a web designer or online to make your website stand out, and I will bring that design to life. </p>-->
+<!--                </div>-->
+<!---->
+<!--                <div class="animated" data-animation="fadeIn" data-animation-delay="300"><i class="fas fa-wrench"></i>-->
+<!--                    <h4>Maintenance</h4>-->
+<!--                    <p>Have any problems with your existing website? I can fix your website and apply any changes required. Maybe you want to update your website or redesign it. I can do all those things and anything else you need.</p>-->
+<!--                </div>-->
+<!---->
+<!--                <div class="animated" data-animation="fadeIn" data-animation-delay="400"><i class="fas fa-clipboard-list"></i>-->
+<!--                    <h4>Planning</h4>-->
+<!--                    <p>To get your website up and running as quickly as possible, you must provide a web design and the content in order for me to work as fast as possible. You also require a domain name and hosting. If you do not know about hosting and making your website live, I can set it up for you and provide hosting if necessary.</p>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--</div>-->
 
 
 <div id="about" class="section">
@@ -421,7 +681,7 @@
         <h1 class="section-h1 animated" data-animation="fadeIn" data-animation-delay="100">About Me</h1>
         <div class="about-section">
             <div class="about-me">
-                <div class="about-img animated" data-animation="fadeIn" data-animation-delay="100">
+                <div class="about-img animated" data-animation="fadeIn" data-animation-delay="200">
                     <img src="img/me.jpg" alt="">
                 </div>
                 <div class="about-desc animated" data-animation="fadeIn" data-animation-delay="200">
@@ -433,44 +693,44 @@
                     <li>
                         <ul>
                             <li class="animated" data-animation="fadeIn" data-animation-delay="200"><strong>Frontend:</strong></li>
-                            <li class="animated" data-animation="fadeIn" data-animation-delay="250">HTML</li>
-                            <li class="animated" data-animation="fadeIn" data-animation-delay="300">CSS</li>
-                            <li class="animated" data-animation="fadeIn" data-animation-delay="350">SCSS</li>
-                            <li class="animated" data-animation="fadeIn" data-animation-delay="400">Javascript</li>
-                            <li class="animated" data-animation="fadeIn" data-animation-delay="450">Jquery</li>
-                            <li class="animated" data-animation="fadeIn" data-animation-delay="500">Bootstrap</li>
+                            <li class="animated" data-animation="fadeIn" data-animation-delay="200">HTML</li>
+                            <li class="animated" data-animation="fadeIn" data-animation-delay="200">CSS</li>
+                            <li class="animated" data-animation="fadeIn" data-animation-delay="200">SCSS</li>
+                            <li class="animated" data-animation="fadeIn" data-animation-delay="200">Javascript</li>
+                            <li class="animated" data-animation="fadeIn" data-animation-delay="200">Jquery</li>
+                            <li class="animated" data-animation="fadeIn" data-animation-delay="200">Bootstrap</li>
                         </ul>
                     </li>
                     <li>
                         <ul>
                             <li class="animated" data-animation="fadeIn" data-animation-delay="200"><strong>Backend:</strong></li>
-                            <li class="animated" data-animation="fadeIn" data-animation-delay="250">PHP</li>
-                            <li class="animated" data-animation="fadeIn" data-animation-delay="300">MYSQL</li>
-                            <li class="animated" data-animation="fadeIn" data-animation-delay="350">Laravel</li>
-                            <li class="animated" data-animation="fadeIn" data-animation-delay="400">Slim</li>
-                            <li class="animated" data-animation="fadeIn" data-animation-delay="450">Twig</li>
-                            <li class="animated" data-animation="fadeIn" data-animation-delay="500">Wordpress</li>
+                            <li class="animated" data-animation="fadeIn" data-animation-delay="200">PHP</li>
+                            <li class="animated" data-animation="fadeIn" data-animation-delay="200">MYSQL</li>
+                            <li class="animated" data-animation="fadeIn" data-animation-delay="200">Laravel</li>
+                            <li class="animated" data-animation="fadeIn" data-animation-delay="200">Slim</li>
+                            <li class="animated" data-animation="fadeIn" data-animation-delay="200">Twig</li>
+                            <li class="animated" data-animation="fadeIn" data-animation-delay="200">Wordpress</li>
                         </ul>
                     </li>
                     <li>
                         <ul>
                             <li class="animated" data-animation="fadeIn" data-animation-delay="200"><strong>Version Control:</strong></li>
-                            <li class="animated" data-animation="fadeIn" data-animation-delay="250">Git</li>
-                            <li class="animated" data-animation="fadeIn" data-animation-delay="300">Github</li>
+                            <li class="animated" data-animation="fadeIn" data-animation-delay="200">Git</li>
+                            <li class="animated" data-animation="fadeIn" data-animation-delay="200">Github</li>
                         </ul>
                     </li>
                     <li>
                         <ul>
                             <li class="animated" data-animation="fadeIn" data-animation-delay="200"><strong>Design:</strong></li>
-                            <li class="animated" data-animation="fadeIn" data-animation-delay="250">Photoshop</li>
+                            <li class="animated" data-animation="fadeIn" data-animation-delay="200">Photoshop</li>
                         </ul>
                     </li>
                     <li>
                         <ul>
                             <li class="animated" data-animation="fadeIn" data-animation-delay="200"><strong>Links:</strong></li>
-                            <li class="animated" data-animation="fadeIn" data-animation-delay="250"><a href="https://github.com/Jarrell28" target="_blank">Github</a></li>
-                            <li class="animated" data-animation="fadeIn" data-animation-delay="300"><a href="https://www.linkedin.com/in/jarrell-houston-9857b210a/" target="_blank">LinkedIn</a></li>
-                            <li class="animated" data-animation="fadeIn" data-animation-delay="350"><a href="/img/RESUME.pdf" download>Resume</a></li>
+                            <li class="animated" data-animation="fadeIn" data-animation-delay="200"><a href="https://github.com/Jarrell28" target="_blank">Github</a></li>
+                            <li class="animated" data-animation="fadeIn" data-animation-delay="200"><a href="https://www.linkedin.com/in/jarrell-houston-9857b210a/" target="_blank">LinkedIn</a></li>
+                            <li class="animated" data-animation="fadeIn" data-animation-delay="200"><a href="/img/resume.pdf" download>Resume</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -490,25 +750,25 @@
                     echo "<p class='email-message'>{$_SESSION['email']}</p>";
                     unset($_SESSION['email']);
                 }?>
-                <p class="animated" data-animation="fadeIn" data-animation-delay="250"><label for="email">Email</label><input type="email" name="email" id="email" placeholder="Email"></p>
-                <p class="animated" data-animation="fadeIn" data-animation-delay="350"><label for="subject">Subject</label><input type="text" id="subject" name="subject" placeholder="Subject"></p>
+                <p class="animated" data-animation="fadeIn" data-animation-delay="200"><label for="email">Email</label><input type="email" name="email" id="email" placeholder="Email"></p>
+                <p class="animated" data-animation="fadeIn" data-animation-delay="200"><label for="subject">Subject</label><input type="text" id="subject" name="subject" placeholder="Subject"></p>
 
-                <p class="animated" data-animation="fadeIn" data-animation-delay="450"><label for="message">Message</label><textarea name="message" id="message" cols="30" rows="5" placeholder="Message" ></textarea>
+                <p class="animated" data-animation="fadeIn" data-animation-delay="200"><label for="message">Message</label><textarea name="message" id="message" cols="30" rows="5" placeholder="Message" ></textarea>
                 </p>
-                <p class="text-center animated" data-animation="fadeIn" data-animation-delay="550"><button type="submit" name="submit" class="submitButton">Submit</button></p>
+                <p class="text-center animated" data-animation="fadeIn" data-animation-delay="200"><button type="submit" name="submit" class="submitButton">Submit</button></p>
             </form>
         </div>
     </div>
 </div>
 
 <footer>
-    <a href="#home" data-scroll class="top animated" data-animation="fadeIn" data-animation-delay="150"><i class="fas fa-angle-double-up"></i></a>
+    <a href="#home" data-scroll class="top animated" data-animation="fadeIn" data-animation-delay="200"><i class="fas fa-angle-double-up"></i></a>
     <div class="contact-socials">
-        <p class="animated" data-animation="fadeIn" data-animation-delay="350"><a class="d-flex align-center" href="mailto:jhouston2882@gmail.com"><i class="fas fa-envelope"></i></a></p>
-        <p class="animated" data-animation="fadeIn" data-animation-delay="450"><a class="d-flex align-center" href="https://www.linkedin.com/in/jarrell-houston-9857b210a/" target="_blank"><i class="fab fa-linkedin"></i></a></p>
-        <p class="animated" data-animation="fadeIn" data-animation-delay="550"><a class="d-flex align-center" href="https://github.com/Jarrell28"><i class="fab fa-github"></i></a></p>
+        <p class="animated" data-animation="fadeIn" data-animation-delay="200"><a class="d-flex align-center" href="mailto:jhouston2882@gmail.com"><i class="fas fa-envelope"></i></a></p>
+        <p class="animated" data-animation="fadeIn" data-animation-delay="250"><a class="d-flex align-center" href="https://www.linkedin.com/in/jarrell-houston-9857b210a/" target="_blank"><i class="fab fa-linkedin"></i></a></p>
+        <p class="animated" data-animation="fadeIn" data-animation-delay="300"><a class="d-flex align-center" href="https://github.com/Jarrell28"><i class="fab fa-github"></i></a></p>
     </div>;
-    <p class="text-center text-white m-0 animated" data-animation="fadeIn" data-animation-delay="250" style="font-size: 14px;">Jarrell Houston &copy;<?php echo date('Y');?></p>
+    <p class="text-center text-white m-0 animated" data-animation="fadeIn" data-animation-delay="200" style="font-size: 14px;">Jarrell Houston &copy;<?php echo date('Y');?></p>
 </footer>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
